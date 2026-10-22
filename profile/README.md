@@ -2,12 +2,12 @@
 This is the new SFS 1.6 RP.  
 
 ## Requirements
-* A forums account
+* A SFS forums account
 * A github account
 * Knowledge of JSON
 
 ## Manager Requirements
-* A forums account
+* A SFS forums account
 * A github account
 * Knowledge of JSON
 * Somewhat active in the RP
