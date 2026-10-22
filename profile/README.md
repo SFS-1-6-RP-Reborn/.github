@@ -12,3 +12,7 @@ This is the new SFS 1.6 RP.
 * Knowledge of JSON
 * Somewhat active in the RP
 * Helps out a lot
+
+## Current Managers
+* Roshan
+* Engine
